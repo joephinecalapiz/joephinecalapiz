@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)]
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
 
 <h1 align="center">Hi 👋, I'm Joephine Calapiz</h1>
 <h3 align="center">Currently working on different programming languages</h3>
