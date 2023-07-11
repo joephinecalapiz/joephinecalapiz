@@ -1,8 +1,8 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)]
 
 <h1 align="center">Hi 👋, I'm Joephine Calapiz</h1>
 <h3 align="center">Currently working on different programming languages</h3>
-<img align="right" alt="Coding" width="200" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joephinecalapiz&label=Profile%20views&color=0e75b6&style=flat" alt="joephinecalapiz" /> </p>
@@ -14,6 +14,8 @@
 - 🔭 I’m currently working on [Capstone Project](https://github.com/joephinecalapiz/cofeebeansorter_mobile)
 
 - 🌱 I’m currently learning **React JS, Laravel**
+
+- 👨‍💻 All of my projects are available at [Repositories. just click it](Repositories. just click it)
 
 - 📫 How to reach me **joephinecalapiz.work@gmail.com**
 
@@ -33,8 +35,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joephinecalapiz7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joephinecalapiz7" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joephinecalapiz&show_icons=true&locale=en&layout=compact" alt="joephinecalapiz" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joephinecalapiz&show_icons=true&locale=en" alt="joephinecalapiz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joephinecalapiz&" alt="joephinecalapiz" /></p>
