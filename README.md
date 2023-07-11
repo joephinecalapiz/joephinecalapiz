@@ -2,13 +2,9 @@
 
 <h1 align="center">Joephine Calapiz</h1>
 <h3 align="center">Currently working on Mobile Application and Learning different programming languages </h3>
+<br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joephinecalapiz&label=Profile%20views&color=0e75b6&style=flat" alt="joephinecalapiz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joephinecalapiz" alt="joephinecalapiz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pinxxx27" target="blank"><img src="https://img.shields.io/twitter/follow/pinxxx27?logo=twitter&style=for-the-badge" alt="pinxxx27" /></a> </p>
 
 - 🔭 I’m currently working on [Capstone Project](https://github.com/joephinecalapiz/cofeebeansorter_mobile)
 
@@ -17,6 +13,7 @@
 - 👨‍💻 All of my projects are available at [Repositories. just click it](Repositories. just click it)
 
 - 📫 How to reach me **joephinecalapiz.work@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joephinecalapiz7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joephinecalapiz7" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joephinecalapiz&show_icons=true&locale=en" alt="joephinecalapiz" /></p>
