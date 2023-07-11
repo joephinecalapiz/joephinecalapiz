@@ -3,7 +3,6 @@
 <h1 align="center">Joephine Calapiz</h1>
 <h3 align="center">Currently working on Mobile Application and Learning different programming languages </h3>
 
-<img align="right" alt="Coding" width="200" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joephinecalapiz&label=Profile%20views&color=0e75b6&style=flat" alt="joephinecalapiz" /> </p>
 
