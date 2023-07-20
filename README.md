@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React JS, Laravel**
 
-- 👨‍💻 All of my projects are available at [Repositories. just click it](Repositories. just click it)
-
 - 📫 How to reach me **joephinecalapiz.work@gmail.com**
 
 
