@@ -1,8 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI2MjdrNWtoY2t4MmkwNnJpZ2tycnpwZGU3NnRvZzM4dGIzN3VsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
 
-<h1 align="center">Joephine Calapiz</h1>
-<h3 align="center">Currently working on Mobile Application and Learning different programming languages </h3>
-<br>
 
 
 
